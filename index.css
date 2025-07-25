@@ -1,0 +1,18 @@
+
+.farhad{
+    display: flex;
+     width: 200px; 
+     height: 200px; 
+     
+    
+
+}
+.hero-bg {
+    background-image: url('/image/deal-bloom.png');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
